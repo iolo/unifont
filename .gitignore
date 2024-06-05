@@ -1,0 +1,6 @@
+bin/
+lib/
+*.o
+src/
+!src/*.c
+font/plane00/hangul/hangul-syllables*.hex
